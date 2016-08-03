@@ -1,9 +1,9 @@
 {
-  "name": "front2",
+  "name": "algolia-vuejs-example",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "",
-  "private": true,
+  "author": "Karl Leicht",
+  "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
